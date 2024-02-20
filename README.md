@@ -1,5 +1,5 @@
 # Best website to learn React JS
-## [Best website to learn React JS](https://www.justacademy.co/program-detail/software-testing)
+## [Best website to learn React JS](https://www.justacademy.co/course-detail/react-js-training)
 Learning React.js opens doors to building dynamic and interactive user interfaces for web applications. With its growing demand in the industry, mastering React.js enhances career prospects and empowers individuals to create cutting-edge web solutions. Here are some of the best website to learn react js in India, along with explanations about each:
 
 ### To Download Our Brochure [Click Here](https://www.justacademy.co/download-brochure-for-free)
